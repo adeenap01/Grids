@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #d6e5fa;
+    background-color: blanchedalmond;
     margin: 0 px;
   }
   
@@ -11,8 +11,7 @@ body {
   }
   
   .grid-item {
-    background-color: #d6e5fa;
-    text-align: center;
+    background-color: blanchedalmond;
   }
   
   .grid-item.large {
@@ -25,13 +24,4 @@ body {
   
   .grid-item p {
     margin-top: 10px;
-    font-size: 16px;
-  }
-  
-  .pink {
-    background-color: #d6e5fa;
-  }
-  
-  .yellow {
-    background-color: #d6e5fa;
   }
